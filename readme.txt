@@ -14,6 +14,18 @@ The Categories Images Plugin allow you to add image with category or taxonomy.
 
 Use `<?php if (function_exists('z_taxonomy_image_url')) echo z_taxonomy_image_url(); ?>` to get the url and put it in any img tag in (category or taxonomy) template.
 
+/**
+ * call method
+ * get taxonomy image url for the given term_id (Place holder image by default)
+ * @param null $term_id
+ * @param int $image_col
+ * @param null $size
+ * @param bool $return_placeholder
+ * @return string
+ */
+z_taxonomy_image_url($term_id = NULL, $image_col = 1, $size = NULL, $return_placeholder = FALSE)
+
+
 Also from settings menu you can exclude any taxonomies from the plugin to avoid conflicting with another plugins like WooCommerce!
 
 = More documentation =

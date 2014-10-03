@@ -214,7 +214,15 @@ function z_get_attachment_id_by_url($image_src)
     return (!empty($id)) ? $id : NULL;
 }
 
-// get taxonomy image url for the given term_id (Place holder image by default)
+/**
+ *
+ * get taxonomy image url for the given term_id (Place holder image by default)
+ * @param null $term_id
+ * @param int $image_col
+ * @param null $size
+ * @param bool $return_placeholder
+ * @return string
+ */
 function z_taxonomy_image_url($term_id = NULL, $image_col = 1, $size = NULL, $return_placeholder = FALSE)
 {
     if (!$term_id) {

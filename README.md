@@ -1,5 +1,5 @@
-# Categories Images Wordpress Plugin
-
+# Categories Images Wordpress Plugin [![Build Status](https://travis-ci.org/jjhesk/CateImages-Wordpress.svg)](https://travis-ci.org/jjhesk/CateImages-Wordpress)
+============================
 - Contributors: elzahlan, Hesk, Ryo
 - Donate link: 
 - Tags: Category Image, Category Images, Categories Images, taxonomy image, taxonomy images, taxonomies images, category icon, categories icons, category logo, categories logos, admin, wp-admin, category image plugin, categories images plugin

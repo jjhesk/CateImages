@@ -1,4 +1,4 @@
-# Categories Images Wordpress Plugin [![Build Status](https://travis-ci.org/jjhesk/CateImages-Wordpress.svg)](https://travis-ci.org/jjhesk/CateImages-Wordpress)
+# Categories Images Wordpress Plugin [![Build Status](https://travis-ci.org/jjhesk/CateImages-Wordpress.svg)](https://travis-ci.org/jjhesk/CateImages-Wordpress)[![Code Climate](https://codeclimate.com/github/jjhesk/CateImages-Wordpress/badges/gpa.svg)](https://codeclimate.com/github/jjhesk/CateImages-Wordpress)
 ============================
 - Contributors: elzahlan, Hesk, Ryo
 - Donate link: 
